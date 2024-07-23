@@ -1,2 +1,5 @@
 # Animated Login Page
-<video src
+
+---
+
+Video for example usage of the site
